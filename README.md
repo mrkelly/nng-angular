@@ -1,4 +1,4 @@
-UP Lunch and Learn
+Northern Natural Gas Angular Lunch and Learn
 ===============
 
 ##Slides
